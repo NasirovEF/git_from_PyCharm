@@ -3,3 +3,10 @@ def sum_number(a, b):
 
     summ = a + b
     return summ
+
+
+def subtraction(a, b):
+    """Выводит результат вычитания числа 'a' и 'b'"""
+
+    sbtrn = a - b
+    return sbtrn
